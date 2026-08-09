@@ -6,18 +6,19 @@ order: 5
 ---
 
 
-I’m **Sumit Mishra (Ossm)**, an independent researcher and engineer focused on **Reinforcement Learning and Applied Mathematics**.
+I’m **Sumit Mishra (Ossm)**. I’m an independent researcher and engineer interested in **Reinforcement Learning and Applied Mathematics**.
 
-My interests include **reinforcement learning, mathematical modeling, probability, optimization, dynamical systems, and scientific machine learning**. I enjoy understanding ideas from first principles and turning them into practical implementations and experiments.
+I’m particularly interested in understanding how mathematical ideas such as **probability, optimization, dynamical systems, and mathematical modeling** can help us build better learning systems. I like learning things from first principles, implementing what I learn, and experimenting with ideas along the way.
 
-I’m also a **competitive programmer**, with a **1600+ rating on AtCoder**, and I regularly work with algorithms, data structures, and problem solving.
+Outside of research, I’m a **competitive programmer** with a **1600+ rating on AtCoder**, where I enjoy working on algorithms, data structures, and problem solving.
 
-Through this website, I share my **research, technical writing, experiments, projects, and things I learn** along the way.
+This website is where I share what I’m working on, including **research, technical writing, experiments, projects, and things I learn**.
 
-My long-term goal is to contribute meaningful research at the intersection of **AI, mathematics, and science**.
+In the long run, I hope to do meaningful work at the intersection of **AI, mathematics, and science**.
 
 ## Find Me Online
 
+* **Email:** [sumitmishra@keemail.me](mailto:sumitmishra@keemail.me)
 * **X:** [@skmih](https://x.com/skmih)
 * **Bluesky:** [@ossm.me](https://bsky.app/profile/ossm.me)
 * **Mastodon:** [@ossm@mathstodon.xyz](https://mathstodon.xyz/@ossm)
