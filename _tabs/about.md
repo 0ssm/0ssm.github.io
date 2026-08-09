@@ -18,7 +18,7 @@ In the long run, I hope to do meaningful work at the intersection of **AI, mathe
 
 ## Find Me Online
 
-* **Email:** [sumitmishra@keemail.me](mailto:sumitmishra@keemail.me)
+* **Email:** [sumitxit@gmail.com](mailto:sumitxit@gmail.com)
 * **X:** [@skmih](https://x.com/skmih)
 * **Bluesky:** [@ossm.me](https://bsky.app/profile/ossm.me)
 * **Mastodon:** [@ossm@mathstodon.xyz](https://mathstodon.xyz/@ossm)
