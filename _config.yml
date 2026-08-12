@@ -16,7 +16,7 @@ timezone: Asia/Kolkata
 
 title: Ossm's blog # the main title
 
-tagline: Reinforcement learning & Applied mathematics # it will display as the subtitle
+tagline: Notes on Reinforcement learning & Applied mathematics # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Educational articles on artificial intelligence, reinforcement learning, mathematics, and computer science, with a focus on clear explanations and first-principles thinking..
