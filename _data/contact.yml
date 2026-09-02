@@ -1,4 +1,11 @@
 #  The contact options.
+- type: Linktree
+  icon: 'fa-brands fa-linktree'
+  url: 'https://linktr.ee/0ssm'                   # Fill with your Threads profile link
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
 
 - type: github
   icon: "fab fa-github"
@@ -6,26 +13,23 @@
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-
+- type: mastodon
+  icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
+  url:  'https://mathstodon.xyz/@ossm'                  # Fill with your Mastodon account page, rel="me" will be applied for verification
+#
+- type: stack-overflow
+  icon: 'fab fa-stack-overflow'
+  url:  'https://stackexchange.com/users/32109498/sumit-mishra?tab=accounts'                  # Fill with your stackoverflow homepage
+  
 - type: rss
   icon: "fas fa-rss"
   noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
-- type: mastodon
-  icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-  url:  'https://mathstodon.xyz/@ossm'                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-#
 # - type: linkedin
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Linkedin homepage
 #
-# - type: stack-overflow
-#   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
 #
 # - type: bluesky
 #   icon: 'fa-brands fa-bluesky'
@@ -35,6 +39,3 @@
 #   icon: 'fa-brands fa-reddit'
 #   url: ''                   # Fill with your Reddit profile link
 #
-# - type: threads
-#   icon: 'fa-brands fa-threads'
-#   url: ''                   # Fill with your Threads profile link
